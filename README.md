@@ -2,4 +2,7 @@
 
 ## esempio commit
 
+## commento PR
+
 ## modifica master conflitto
+
